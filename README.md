@@ -7,7 +7,7 @@ This is a sample project that ilustrates how to use MLflow and Jupyter to solve 
 ## How do I run it?
 
 1. Download the famous [MNIST dataset from Kaggle](https://www.kaggle.com/c/digit-recognizer) and place then under the `data` folder.
-2. Ensure you have installed `jupyter`, `mlflow`, `pandas`, `numpy` and `sklearn` on your python distribution.
+2. Ensure you have installed `jupyter`,`matplotlib`, `mlflow`, `pandas`, `numpy` and `sklearn` on your python distribution.
 3. Navigate to the root folder of this project and, using the console, run jupyter and MLflow:
   * `jupyter notebook`
   * `mlflow ui`
